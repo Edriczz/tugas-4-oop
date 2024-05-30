@@ -30,12 +30,10 @@ public class saham {
     public double getpriorClosingprice(){
         return priorClosingprice;
     }
-    public void setcurrentPrice(double setcurrentPrice){
+    public void setcurrentPrice(double currentPrice){
         this.currentPrice=currentPrice;
     }
     public double getcurrentprice(){
         return currentPrice;
     }
-
-
 }
